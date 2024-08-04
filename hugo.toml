@@ -1,0 +1,4 @@
+baseURL = "https://yuehanlu.github.io/"
+languageCode = "en-us"
+title = "My Academic CV"
+themes = "theme-academic-cv"
